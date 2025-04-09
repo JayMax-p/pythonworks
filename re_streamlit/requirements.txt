@@ -1,5 +1,6 @@
 # requirements.txt
 streamlit
 numpy
+plotly
 matplotlib
 # requests # Add this if you implement real HTTP commands in send_command
